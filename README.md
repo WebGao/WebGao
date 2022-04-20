@@ -1,4 +1,4 @@
-![![WebGao's GitHub stats](https://github-readme-stats.vercel.app/api?username=WebGao&count_private=true)](https://github.com/WebGao)
+[![WebGao's GitHub stats](https://github-readme-stats.vercel.app/api?username=WebGao&count_private=true)](https://github.com/WebGao)
 
 <!-- ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WebGao&layout=compact) -->
 
