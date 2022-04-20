@@ -1,4 +1,8 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WebGao)](https://github.com/anuraghazra/github-readme-stats)
+![WebGao's GitHub stats](https://github-readme-stats.vercel.app/api?username=WebGao&count_private=true)
+
+<!-- ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WebGao&layout=compact) -->
+
+<!-- (https://github.com/anuraghazra/github-readme-stats) --!>
 
 <!-- ### Hi there 👋 --!>
 
